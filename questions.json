@@ -1,0 +1,194 @@
+{
+  "heading": "G6_Applying Unitary Method in Different Real-Life Situations",
+  "topics": [
+    {
+      "heading": "Applying Unitary Method in Different Real-Life Situations",
+      "questions": [
+
+  
+  {
+    "questionNo": 1,
+    "question": ["Look at the <b>unitary method diagram</b> shown above. Which <b>mathematical operation</b> is used to find the value of <b>one single unit</b> when you already know the <b>total value</b> of multiple identical units?"],
+    "options": ["Addition", "Subtraction", "Multiplication", "Division"],
+    "answer": 3,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 2,
+    "question": ["Look at the <b>unitary method diagram</b> shown above. Once you have calculated the value of <b>one single unit</b>, which <b>mathematical operation</b> is used to find the <b>total value</b> of a required number of identical units?"],
+    "options": ["Division", "Multiplication", "Subtraction", "Addition"],
+    "answer": 1,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 3,
+    "question": ["A pack of <b>8</b> identical water bottles costs <b>$32</b>. What is the cost of <b>1</b> water bottle?"],
+    "options": ["$3", "$4", "$5", "$24"],
+    "answer": 1,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 4,
+    "question": ["<img  src = './assests/images/question/5.png' width = '40%' ><br>A local junior football club buys <b>9</b> identical soccer balls for a total of <b>$135</b>. The cost of <b>1</b> soccer ball is <b>$______</b>."],
+    "input": [""],
+    "answer": ["15"]
+  },
+  {
+    "questionNo": 5,
+    "question": ["At a weekend farmers' market, <b>4</b> mangoes cost <b>$3.60</b>. What is the cost of <b>1</b> mango?"],
+    "options": ["$0.70", "$0.80", "$0.90", "$1.20"],
+    "answer": 2,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 6,
+    "question": ["At a neighbourhood bakery, <b>6</b> glazed doughnuts cost <b>$4.80</b>. What is the cost of <b>1</b> glazed doughnut?"],
+    "options": ["$0.60", "$0.75", "$0.80", "$0.90"],
+    "answer": 2,
+    "image": "./assests/images/question/7.png"
+  },
+  {
+    "questionNo": 7,
+    "question": ["<b>6</b> identical watercolour paint sets cost <b>$48</b>. Using the <b>unitary method</b>, what is the total cost of <b>11</b> such paint sets?"],
+    "options": ["$72", "$80", "$88", "$96"],
+    "answer": 2,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 8,
+    "question": ["A tour group pays <b>$112</b> in total for <b>8</b> identical science museum entry tickets. At the same ticket price, <b>5</b> entry tickets will cost <b>$______</b>."],
+    "input": [""],
+    "answer": ["70"]
+  },
+  {
+    "questionNo": 9,
+    "question": ["At a fruit shop, <b>4</b> large oranges cost <b>$3.40</b>. How much will <b>9</b> identical oranges cost?"],
+    "options": ["$6.80", "$7.25", "$7.65", "$8.10"],
+    "answer": 2,
+    "image": "./assests/images/question/9.png"
+  },
+  {
+    "questionNo": 10,
+    "question": ["At a stationery shop, <b>5</b> identical packs of sticky notes cost <b>$8.75</b>. At the same rate, <b>8</b> packs of sticky notes will cost <b>$______</b>."],
+    "input": [""],
+    "answer": ["14"]
+  },
+  {
+    "questionNo": 11,
+    "question": ["<b>One dozen</b> chocolate cupcakes cost <b>$48</b> at a patisserie. What is the cost of <b>14</b> chocolate cupcakes at the same rate?"],
+    "options": ["$52", "$56", "$60", "$64"],
+    "answer": 1,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 12,
+    "question": ["<b>Two dozen</b> passionfruits cost <b>$16.80</b> at a fruit market. At this exact rate, <b>20</b> passionfruits will cost <b>$______</b>."],
+    "input": [""],
+    "answer": ["14"]
+  },
+  {
+    "questionNo": 13,
+    "question": ["<b>7</b> identical plastic document folders cost <b>$28</b>. How many of these folders can be bought for <b>$52</b>?"],
+    "options": ["11", "12", "13", "14"],
+    "answer": 2,
+    "image": "./assests/images/question/11.png"
+  },
+  {
+    "questionNo": 14,
+    "question": ["At a local bakery, <b>9</b> identical sausage rolls cost <b>$27</b>. With a budget of <b>$54</b>, a cricket team manager can buy <b>______</b> sausage rolls."],
+    "input": [""],
+    "answer": ["18"]
+  },
+  {
+    "questionNo": 15,
+    "question": ["Look at the <b>two supermarket packs</b> of identical muesli bars shown above. Which pack offers the <b>better value for money</b> (<b>cheaper cost per bar</b>)?"],
+    "options": [
+      "Pack A, because $6.50 is a smaller total price.",
+      "Pack B, because each bar costs $1.20 compared to $1.30 in Pack A.",
+      "Pack A, because each bar costs $1.20 compared to $1.30 in Pack B.",
+      "Both packs offer the exact same value per bar."
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/12.png"
+  },
+  {
+    "questionNo": 16,
+    "question": ["Look at the <b>two multi-packs</b> of identical iced tea bottles shown above. Which pack is the <b>better buy</b> (<b>cheaper cost per bottle</b>)?"],
+    "options": [
+      "Pack X, because each bottle costs $2.30 compared to $2.40 in Pack Y.",
+      "Pack Y, because larger multi-packs are always cheaper per bottle.",
+      "Pack Y, because each bottle costs $2.20 compared to $2.30 in Pack X.",
+      "Both packs cost the exact same amount per bottle."
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/13.png"
+  },
+  {
+    "questionNo": 17,
+    "question": ["A coach bus travels <b>280 km</b> in <b>4 hours</b> at a constant speed. Travelling at this same constant speed, how far will the bus travel in <b>9 hours</b>?"],
+    "options": ["560 km", "600 km", "630 km", "700 km"],
+    "answer": 2,
+    "image": "./assests/images/question/14.png"
+  },
+  {
+    "questionNo": 18,
+    "question": ["A hybrid car uses <b>15 litres</b> of petrol to travel <b>240 km</b>. Using petrol at the exact same rate, the car can travel <b>______ km</b> on <b>25 litres</b> of petrol."],
+    "input": [""],
+    "answer": ["400"]
+  },
+  {
+    "questionNo": 19,
+    "question": ["A scone recipe uses <b>480 grams</b> of flour to make <b>16</b> identical scones. How many grams of flour are needed to make <b>25</b> scones?"],
+    "options": ["650 g", "700 g", "750 g", "800 g"],
+    "answer": 2
+  },
+  {
+    "questionNo": 20,
+    "question": ["A cycling club organiser packs <b>720 grams</b> of dried apricots for <b>18</b> cyclists. Keeping the exact same portion size per cyclist, the organiser needs <b>______ grams</b> of dried apricots for <b>30</b> cyclists."],
+    "input": [""],
+    "answer": ["1200"]
+  },
+  {
+    "questionNo": 21,
+    "question": ["Ethan earns <b>$144</b> for working <b>8 hours</b> at a community swimming centre. At the same hourly pay rate, how much will he earn for working <b>13 hours</b>?"],
+    "options": ["$216", "$228", "$234", "$242"],
+    "answer": 2,
+    "image": "./assests/images/question/15.png"
+  },
+  {
+    "questionNo": 22,
+    "question": ["Ruby earns <b>$126</b> for spending <b>7 hours</b> tutoring younger primary students. At the same hourly rate, she will earn <b>$______</b> for <b>15 hours</b> of tutoring."],
+    "input": [""],
+    "answer": ["270"]
+  },
+  {
+    "questionNo": 23,
+    "question": ["At a wholefoods store, <b>500 grams</b> of roasted cashews costs <b>$8.50</b>. What is the cost of <b>3 kilograms</b> of the exact same cashews?"],
+    "options": ["$25.50", "$34.00", "$42.50", "$51.00"],
+    "answer": 3,
+    "image": "./assests/images/question/16.png"
+  },
+  {
+    "questionNo": 24,
+    "question": ["<img  src = './assests/images/question/17.png' width = '40%' ><br>A small <b>200 mL</b> jar of pure bush honey costs <b>$2.80</b>. At the exact same rate per millilitre, <b>2.5 litres</b> of this honey will cost <b>$______</b>."],
+    "input": [""],
+    "answer": ["35"]
+  },
+  {
+    "questionNo": 25,
+    "question": ["<b>5</b> gardeners working at the same steady speed take <b>8 days</b> to landscape a community park. How many days will <b>4</b> gardeners take to landscape the exact same park?"],
+    "options": ["6 days", "7 days", "10 days", "12 days"],
+    "answer": 2
+  },
+  {
+    "questionNo": 26,
+    "question": ["<b>9</b> builders working at the same steady rate take <b>10 days</b> to construct a timber deck for a community hall. Working at the same rate, <b>15</b> builders will take <b>______ days</b> to construct the exact same timber deck."],
+    "input": [""],
+    "answer": ["6"]
+  }
+
+
+      ]
+    }
+  ]
+}
